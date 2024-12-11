@@ -1,2 +1,2 @@
 # Machine_in_Learning
-This repository is show-case of my progress to my ongoing journey of Machine Learning
+This repository is show-case to my journey with Machine Learning
